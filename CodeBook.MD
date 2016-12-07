@@ -13,133 +13,175 @@ The variables in the tidy data are listed below. These are mean values for a giv
 
 * activityName - Descriptive name of activity type
 
-* Time_Body_Acceleration-Mean()-X - Mean acceleration of body in the X direction in time domain
+* Time_Body_Acceleration-Mean()-X, - Mean acceleration of body in the X direction in time domain
 
-* Time_Body_Acceleration-Mean()-Y - Mean acceleration of body in the Y direction in time domain
+* Time_Body_Acceleration-Mean()-Y, - Mean acceleration of body in the Y direction in time domain
 
-* Time_Body_Acceleration-Mean()-Z - Mean acceleration of body in the X direction in time domain
+* Time_Body_Acceleration-Mean()-Z, - Mean acceleration of body in the X direction in time domain
 
-* Time_Body_Acceleration-STD()-X - Standard deviation of acceleration of body in the X direction in time domain
+* Time_Body_Acceleration-STD()-X, - Standard deviation of acceleration of body in the X direction in time domain
 
-* Time_Body_Acceleration-STD()-Y - Standard deviation of acceleration of body in the Y direction in time domain
+* Time_Body_Acceleration-STD()-Y, - Standard deviation of acceleration of body in the Y direction in time domain
 
-* Time_Body_Acceleration-STD()-Z - Standard deviation of acceleration of body in the Z direction in time domain
+* Time_Body_Acceleration-STD()-Z, - Standard deviation of acceleration of body in the Z direction in time domain
 
-* Time_Gravity_Acceleration-Mean()-X - Mean acceleration of Gravity in the X direction in time domain
+* Time_Gravity_Acceleration-Mean()-X, - Mean acceleration of Gravity in the X direction in time domain
 
-* Time_Gravity_Acceleration-Mean()-Y - Mean acceleration of Gravity in the Y direction in time domain
+* Time_Gravity_Acceleration-Mean()-Y, - Mean acceleration of Gravity in the Y direction in time domain
 
-* Time_Gravity_Acceleration-Mean()-Z - Mean acceleration of Gravity in the Z direction in time domain
+* Time_Gravity_Acceleration-Mean()-Z, - Mean acceleration of Gravity in the Z direction in time domain
 
-* Time_Gravity_Acceleration-STD()-X - Standard deviation acceleration of Gravity in the X direction in time domain
+* Time_Gravity_Acceleration-STD()-X, - Standard deviation acceleration of Gravity in the X direction in time domain
 
-* Time_Gravity_Acceleration-STD()-Y - Standard deviation acceleration of Gravity in the Y direction in time domain
+* Time_Gravity_Acceleration-STD()-Y, - Standard deviation acceleration of Gravity in the Y direction in time domain
 
-* Time_Gravity_Acceleration-STD()-Z - Standard deviation acceleration of Gravity in the Z direction in time domain
+* Time_Gravity_Acceleration-STD()-Z, - Standard deviation acceleration of Gravity in the Z direction in time domain
 
-* Time_Body_AccelerationJerk-Mean()-X - Mean acceleration of body (jerk) in X direction in time domain
+* Time_Body_AccelerationJerk-Mean()-X, - Mean acceleration of body (jerk) in X direction in time domain
 
-* Time_Body_AccelerationJerk-Mean()-Y - Mean acceleration of body (jerk) in Y direction in time domain
+* Time_Body_AccelerationJerk-Mean()-Y, - Mean acceleration of body (jerk) in Y direction in time domain
 
-* Time_Body_AccelerationJerk-Mean()-Z - Mean acceleration of body (jerk) in Z direction in time domain
+* Time_Body_AccelerationJerk-Mean()-Z, - Mean acceleration of body (jerk) in Z direction in time domain
 
-* Time_Body_AccelerationJerk-STD()-X - Standard deviation acceleration of body (jerk) in X direction in time domain 
+* Time_Body_AccelerationJerk-STD()-X, - Standard deviation acceleration of body (jerk) in X direction in time domain 
 
-* Time_Body_AccelerationJerk-STD()-Y - Standard deviation acceleration of body (jerk) in Y direction in time domain 
+* Time_Body_AccelerationJerk-STD()-Y, - Standard deviation acceleration of body (jerk) in Y direction in time domain 
 
-* Time_Body_AccelerationJerk-STD()-Z - Standard deviation acceleration of body (jerk) in Z direction in time domain 
+* Time_Body_AccelerationJerk-STD()-Z, - Standard deviation acceleration of body (jerk) in Z direction in time domain 
 
-* Time_BodyGyro-Mean()-X - Mean gyroscope in X direction in time domain 
+* Time_BodyGyro-Mean()-X, - Mean gyroscope in X direction in time domain 
 
-* Time_BodyGyro-Mean()-Y - Mean gyroscope in Y direction in time domain 
+* Time_BodyGyro-Mean()-Y, - Mean gyroscope in Y direction in time domain 
 
-* Time_BodyGyro-Mean()-Z - Mean gyroscope in Z direction in time domain 
+* Time_BodyGyro-Mean()-Z, - Mean gyroscope in Z direction in time domain 
 
-* Time_BodyGyro-STD()-X - Standard deviation gyroscope in X direction in time domain 
+* Time_BodyGyro-STD()-X, - Standard deviation gyroscope in X direction in time domain 
 
-* Time_BodyGyro-STD()-Y -  Standard deviation gyroscope in Y direction in time domain 
+* Time_BodyGyro-STD()-Y, -  Standard deviation gyroscope in Y direction in time domain 
 
-* Time_BodyGyro-STD()-Z - Standard deviation gyroscope in Z direction in time domain 
+* Time_BodyGyro-STD()-Z, - Standard deviation gyroscope in Z direction in time domain 
 
-* Time_BodyGyroJerk-Mean()-X
+* Time_BodyGyroJerk-Mean()-X, - Mean gyroscope jerk in X direction in time domain
 
-* Time_BodyGyroJerk-Mean()-Y
+* Time_BodyGyroJerk-Mean()-Y, - Mean gyroscope jerk in Y direction in time domain
 
-* Time_BodyGyroJerk-Mean()-Z
+* Time_BodyGyroJerk-Mean()-Z, - Mean gyroscope jerk in Z direction in time domain
 
-* Time_BodyGyroJerk-STD()-X
+* Time_BodyGyroJerk-STD()-X, - Standard deviation gyroscope jerk in X direction in time domain
 
-* Time_BodyGyroJerk-STD()-Y
+* Time_BodyGyroJerk-STD()-Y, - Standard deviation gyroscope jerk in Y direction in time domain
 
-* Time_BodyGyroJerk-STD()-Z
+* Time_BodyGyroJerk-STD()-Z, - Standard deviation gyroscope jerk in Z direction in time domain
 
-* Time_Body_AccelerationMag-Mean()
+* Time_Body_AccelerationMag-Mean(),  - Mean acceleration of body magnetometer in time domain
 
-* Time_Body_AccelerationMag-STD()
+* Time_Body_AccelerationMag-STD(), - Standard dev acceleration of body magnetometer in time domain
 
-* Time_Gravity_AccelerationMag-Mean()
+* Time_Gravity_AccelerationMag-Mean(), - Mean acceleration of magnetometer caused by gravity in time domain
 
-* Time_Gravity_AccelerationMag-STD()
+* Time_Gravity_AccelerationMag-STD(), -  Standard deviation acceleration of magnetometer caused by gravity in time domain
 
-* Time_Body_AccelerationJerkMag-Mean()
+* Time_Body_AccelerationJerkMag-Mean(), - Mean jerk of acceleration from body in time domain
 
-* Time_Body_AccelerationJerkMag-STD()
+* Time_Body_AccelerationJerkMag-STD(), - Standard deviation jerk of acceleration from body in time domain
 
-* Time_BodyGyroMag-Mean()
+* Time_BodyGyroMag-Mean(), - mean body magnetometer gyroscope measured in time domain
 
-* Time_BodyGyroMag-STD()
+* Time_BodyGyroMag-STD(), - standard dev body gyroscope measured in time domain
 
-* Time_BodyGyroJerkMag-Mean()
+* Time_BodyGyroJerkMag-Mean(), - mean body magnetometer gyroscope measured in time domain
 
-* Time_BodyGyroJerkMag-STD()
+* Time_BodyGyroJerkMag-STD(), - standard dev body magnetometer gyroscope measured in time domain
 
-* FFT_Body_Acceleration-Mean()-X
+* FFT_Body_Acceleration-Mean()-X	 - Mean acceleration of body in the X direction in frequency domain
+	
+* FFT_Body_Acceleration-Mean()-Y	 - Mean acceleration of body in the Y direction in frequency domain
+	
+* FFT_Body_Acceleration-Mean()-Z	 - Mean acceleration of body in the X direction in frequency domain
+	
+* FFT_Body_Acceleration-STD()-X	 - Standard deviation of acceleration of body in the X direction in frequency domain
+	
+* FFT_Body_Acceleration-STD()-Y	 - Standard deviation of acceleration of body in the Y direction in frequency domain
+	
+* FFT_Body_Acceleration-STD()-Z	 - Standard deviation of acceleration of body in the Z direction in frequency domain
+	
+* FFT_Body_Acceleration-MeanFreq()-X	 - Mean acceleration of Gravity in the X direction in frequency domain
+	
+* FFT_Body_Acceleration-MeanFreq()-Y	 - Mean acceleration of Gravity in the Y direction in frequency domain
+	
+* FFT_Body_Acceleration-MeanFreq()-Z	 - Mean acceleration of Gravity in the Z direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-Mean()-X	 - Standard deviation acceleration of Gravity in the X direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-Mean()-Y	 - Standard deviation acceleration of Gravity in the Y direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-Mean()-Z	 - Standard deviation acceleration of Gravity in the Z direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-STD()-X	 - Mean acceleration of body (jerk) in X direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-STD()-Y	 - Mean acceleration of body (jerk) in Y direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-STD()-Z	 - Mean acceleration of body (jerk) in Z direction in frequency domain
+	
+* FFT_Body_AccelerationJerk-MeanFreq()-X	 - Standard deviation acceleration of body (jerk) in X direction in frequency domain 
+	
+* FFT_Body_AccelerationJerk-MeanFreq()-Y	 - Standard deviation acceleration of body (jerk) in Y direction in frequency domain 
+	
+* FFT_Body_AccelerationJerk-MeanFreq()-Z	 - Standard deviation acceleration of body (jerk) in Z direction in frequency domain 
+	
+* FFT_BodyGyro-Mean()-X	 - Mean gyroscope in X direction in frequency domain 
+	
+* FFT_BodyGyro-Mean()-Y	 - Mean gyroscope in Y direction in frequency domain 
+	
+* FFT_BodyGyro-Mean()-Z	 - Mean gyroscope in Z direction in frequency domain 
+	
+* FFT_BodyGyro-STD()-X	 - Standard deviation gyroscope in X direction in frequency domain 
+	
+* FFT_BodyGyro-STD()-Y	 -  Standard deviation gyroscope in Y direction in frequency domain 
+	
+* FFT_BodyGyro-STD()-Z	 - Standard deviation gyroscope in Z direction in frequency domain 
+	
+* FFT_BodyGyro-MeanFreq()-X	 - Mean gyroscope jerk in X direction in frequency domain
+	
+* FFT_BodyGyro-MeanFreq()-Y	 - Mean gyroscope jerk in Y direction in frequency domain
+	
+* FFT_BodyGyro-MeanFreq()-Z	 - Mean gyroscope jerk in Z direction in frequency domain
+	
+* FFT_Body_AccelerationMag-Mean()	 - Standard deviation gyroscope jerk in X direction in frequency domain
+	
+* FFT_Body_AccelerationMag-STD()	 - Standard deviation gyroscope jerk in Y direction in frequency domain
+	
+* FFT_Body_AccelerationMag-MeanFreq()	 - Standard deviation gyroscope jerk in Z direction in frequency domain
+	
+* FFT_BodyBody_AccelerationJerkMag-Mean()	  - Mean acceleration of body magnetometer in frequency domain
+	
+* FFT_BodyBody_AccelerationJerkMag-STD()	 - Standard dev acceleration of body magnetometer in frequency domain
+	
+* FFT_BodyBody_AccelerationJerkMag-MeanFreq()	 - Mean acceleration of magnetometer caused by gravity in frequency domain
+	
+* FFT_BodyBodyGyroMag-Mean()	 -  Standard deviation acceleration of magnetometer caused by gravity in frequency domain
+	
+* FFT_BodyBodyGyroMag-STD()	 - Mean jerk of acceleration from body in frequency domain
+	
+* FFT_BodyBodyGyroMag-MeanFreq()	 - Standard deviation jerk of acceleration from body in frequency domain
+	
+* FFT_BodyBodyGyroJerkMag-Mean()	 - mean body magnetometer gyroscope measured in frequency domain
+	
+* FFT_BodyBodyGyroJerkMag-STD()	 - standard dev body gyroscope measured in frequency domain
+	
+* FFT_BodyBodyGyroJerkMag-MeanFreq()	 - mean body magnetometer gyroscope measured in frequency domain
+	
+* angle(tBody_AccelerationMean,gravityMean)
+	
+* angle(tBody_AccelerationJerkMean,gravityMean)
+	
+* angle(tBodyGyroMean,gravityMean)
+	
+* angle(tBodyGyroJerkMean,gravityMean)
+	
+* angle(X,gravityMean)
+	
+* angle(Y,gravityMean)
+	
+* angle(Z,gravityMean)
 
-* FFT_Body_Acceleration-Mean()-Y
-
-* FFT_Body_Acceleration-Mean()-Z
-
-* FFT_Body_Acceleration-STD()-X
-
-* FFT_Body_Acceleration-STD()-Y
-49 FFT_Body_Acceleration-STD()-Z
-50 FFT_Body_Acceleration-MeanFreq()-X
-51 FFT_Body_Acceleration-MeanFreq()-Y
-52 FFT_Body_Acceleration-MeanFreq()-Z
-53 FFT_Body_AccelerationJerk-Mean()-X
-54 FFT_Body_AccelerationJerk-Mean()-Y
-55 FFT_Body_AccelerationJerk-Mean()-Z
-56 FFT_Body_AccelerationJerk-STD()-X
-57 FFT_Body_AccelerationJerk-STD()-Y
-58 FFT_Body_AccelerationJerk-STD()-Z
-59 FFT_Body_AccelerationJerk-MeanFreq()-X
-60 FFT_Body_AccelerationJerk-MeanFreq()-Y
-61 FFT_Body_AccelerationJerk-MeanFreq()-Z
-62 FFT_BodyGyro-Mean()-X
-63 FFT_BodyGyro-Mean()-Y
-64 FFT_BodyGyro-Mean()-Z
-65 FFT_BodyGyro-STD()-X
-66 FFT_BodyGyro-STD()-Y
-67 FFT_BodyGyro-STD()-Z
-68 FFT_BodyGyro-MeanFreq()-X
-69 FFT_BodyGyro-MeanFreq()-Y
-70 FFT_BodyGyro-MeanFreq()-Z
-71 FFT_Body_AccelerationMag-Mean()
-72 FFT_Body_AccelerationMag-STD()
-73 FFT_Body_AccelerationMag-MeanFreq()
-74 FFT_BodyBody_AccelerationJerkMag-Mean()
-75 FFT_BodyBody_AccelerationJerkMag-STD()
-76 FFT_BodyBody_AccelerationJerkMag-MeanFreq()
-77 FFT_BodyBodyGyroMag-Mean()
-78 FFT_BodyBodyGyroMag-STD()
-79 FFT_BodyBodyGyroMag-MeanFreq()
-80 FFT_BodyBodyGyroJerkMag-Mean()
-81 FFT_BodyBodyGyroJerkMag-STD()
-82 FFT_BodyBodyGyroJerkMag-MeanFreq()
-83 angle(tBody_AccelerationMean,gravity)
-84 angle(tBody_AccelerationJerkMean),gravityMean)
-85 angle(tBodyGyroMean,gravityMean)
-86 angle(tBodyGyroJerkMean,gravityMean)
-87 angle(X,gravityMean)
-88 angle(Y,gravityMean)
-89 angle(Z,gravityMean)
