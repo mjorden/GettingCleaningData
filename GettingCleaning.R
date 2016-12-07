@@ -70,7 +70,7 @@ tidy_data <- left_join(tidy_data, activity_key, by="activityID")
 tidy_data <- tidy_data[,c(1:2,89,3:88)]
 
 #tidy_data <- mutate(tidy_data, activityID=activityName)
-write.table(tidy_data, "./UCI HAR Dataset/tidy2.txt")
+write.table(tidy_data, "./UCI HAR Dataset/tidy2.txt",row.name=FALSE)
 sub_dat <- left_join(sub_dat,activity_key, by="activityID")
-write.table(sub_dat, "./UCI HAR Dataset/tidy1.txt")
+write.table(sub_dat, "./UCI HAR Dataset/tidy1.txt",row.name=FALSE)
 readme_list <- c(names(tidy_data))
