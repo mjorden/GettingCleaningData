@@ -1,6 +1,6 @@
 #Getting and Cleaning Data Course Project
-##Matthew Jorden
-##December 2016
+###Matthew Jorden
+####December 2016
 
 This is my final code project for the Coursera course Getting and Cleaning Data. This Github repository contains my R script to satisy the project goals.
 
