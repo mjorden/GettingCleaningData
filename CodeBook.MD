@@ -1,8 +1,10 @@
-#Variable Descriptions
-
 #Code Book
 
 The variables in the tidy data are listed below. These are mean values for a given subject and activity.
+
+When you run the script, tidy_data2.txt should contain the below variables.
+
+tidy_data.txt will contain many more variables, as it represents the data set before tidying.
 
 
 #Variable Names and Descriptions (tidy_data2.txt)
